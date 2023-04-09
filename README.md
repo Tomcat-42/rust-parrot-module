@@ -8,6 +8,8 @@ Whilst beeing a silly example, it is a good starting point for learning how to w
 - Mutexes
 - Buffering
 
+https://user-images.githubusercontent.com/44649669/230791130-dd80164b-f7dd-41c0-a975-be8dbd6c61b6.mp4
+
 ## References
 
 - [Rust for Linux project](https://github.com/Rust-for-Linux)
